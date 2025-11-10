@@ -1,5 +1,5 @@
 # 使用官方 Deno 镜像
-FROM denoland/deno:1.45.5
+FROM denoland/deno:2.3.7
 
 # 设置工作目录
 WORKDIR /app
